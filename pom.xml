@@ -4,7 +4,7 @@
   <artifactId>MALLET-Trove3</artifactId>
   <version>2.0.7b</version>
   <packaging>jar</packaging>
-  <name>MALLET that uses Trove 3.0.3</name>
+  <name>MALLET-Trove3</name>
   <description>
     MALLET is a Java-based package for statistical natural language processing,
     document classification, clustering, topic modeling, information extraction,
@@ -19,8 +19,8 @@
     </license>
   </licenses>
   <scm>
-    <url>http://hg-iesl.cs.umass.edu/hg/mallet</url>
-    <connection></connection>
+    <url>https://github.com/ramonhlt/mallettrove3</url>
+    <connection>scm:git:https://github.com/ramonhlt/mallettrove3.git</connection>
   </scm>
   <build>
     <sourceDirectory>src</sourceDirectory>
