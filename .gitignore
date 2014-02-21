@@ -1,0 +1,29 @@
+# sbt
+log/
+target/
+project/
+
+# svn
+.svn/
+
+# intellij
+.idea/
+*.iml
+*.iws
+
+# eclipse
+.classpath
+.project
+.settings/
+
+# netbeans
+nbproject/
+build/
+dist/
+
+# other
+output/
+out/
+data/
+input/
+
